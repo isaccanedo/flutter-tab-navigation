@@ -1,2 +1,2 @@
 # flutter-tab-navigation
-:tree: # Flutter Tab navigation
+:three: # Flutter Tab navigation
